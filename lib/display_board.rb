@@ -5,7 +5,7 @@ def display_board(board = [ "   ", "|", "   ", "|", "   ",
   "   ", "|", "   ", "|", "   ",
   "-----------",
   "   ", "|", "   ", "|", "   "])
-  prints board
+  print board
 
 end
 
